@@ -1,3 +1,9 @@
 <template>
-    <NuxtWelcome />
+    <div class="Main">
+        <Alert />
+        <ProfileHeader />
+
+        <Profile />
+
+    </div>
 </template>
