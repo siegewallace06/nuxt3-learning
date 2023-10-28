@@ -1,5 +1,11 @@
+<script setup>
+definePageMeta({
+    layout: 'custom',
+});
+</script>
+
 <template>
-    <div>
+    <div class="EventPage">
         <h1>Events</h1>
     </div>
 </template>
