@@ -1,9 +1,6 @@
 <script setup>
-// Function to show alert when opening the page
-const showAlert = () => {
-    alert('Welcome to my page!');
-}
-showAlert();
+const { sayHello } = useUtils();
+sayHello();
 </script>
 
 <template>

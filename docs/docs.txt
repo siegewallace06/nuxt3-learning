@@ -1,0 +1,6 @@
+Icons:
+icones.js.org
+
+Basic Composable Functions:
+VueUse
+https://vueuse.org/
